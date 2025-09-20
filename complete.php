@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- Author: Scott Grivner -->
-<!-- Website: scottgrivner.dev -->
+<!-- Website: linktr.ee/scottgriv -->
 <!-- Abstract: FTP File Upload Utility -->
 <html>
 <head>
